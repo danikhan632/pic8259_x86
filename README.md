@@ -1,0 +1,1 @@
+x86 only Abstractions for the 8259 and 8259A interrupt controllers, credit to Eric Kidd <git@randomhacks.net> and Phil Opperman
