@@ -1,0 +1,18 @@
+[package]
+name = "pic8259_x86"
+version = "0.1.0"
+authors = ["Daniyal Khan <danikhan632@gmail.com>"]
+edition = "2021"
+
+description = "x86 only Abstractions for the 8259 and 8259A interrupt controllers, credit to Eric Kidd <git@randomhacks.net> and Phil Opperman"
+repository = "https://github.com/rust-osdev/pic8259"
+readme = "README.md"
+keywords = ["no_std", "kernel", "interrupts"]
+license = "Apache-2.0/MIT"
+
+
+[dependencies]
+
+
+[package.metadata.release]
+no-dev-version = true
